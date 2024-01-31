@@ -18,7 +18,7 @@ public class CalculatorGUI extends JFrame implements ActionListener {
     public CalculatorGUI() {
         this.setSize(400, 600);
         this.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-        this.setTitle("Eye-Catchy Calculator");
+        this.setTitle("Calculator");
         this.setResizable(false);
 
         textField = new JTextField();
